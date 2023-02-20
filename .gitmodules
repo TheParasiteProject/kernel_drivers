@@ -1,0 +1,3 @@
+[submodule "misc/KernelSU"]
+	path = misc/KernelSU
+	url = https://github.com/tiann/KernelSU
